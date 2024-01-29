@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 const NameChanger = () => {
-    const [name, setName] = useState("Mikal Din");
+    const [name, setName] = useState("Mikal Wazeeerud-din");
     return (
         <div> 
           <input
